@@ -30,8 +30,9 @@ jobs:
       - name: Main
         run:
           pwd
-          chmod +x autorun.sh
-          ./autorun.sh
+          python3 -m pip install requests
+          
+          python3 m3ugrabber.py | tee link.m3u
         
       - name: commit
         run:
