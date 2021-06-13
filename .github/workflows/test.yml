@@ -49,9 +49,10 @@ jobs:
           
           ls -la 
           
-      - name: commit
+      - name: commit & push
         run:
           git commit -m "link.txt is updated"
           
+          git push
           
           
