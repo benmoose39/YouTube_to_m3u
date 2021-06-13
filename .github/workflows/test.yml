@@ -34,6 +34,6 @@ jobs:
           pwd
           wget https://www.youtube.com/watch?v=zcrUCvBD16k -O 24.html
           ls -la
-          git commit
+          git add -A
           
           
