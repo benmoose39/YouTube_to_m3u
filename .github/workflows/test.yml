@@ -30,13 +30,14 @@ jobs:
       - name: Main
         run:
           pwd
-          wget https://www.youtube.com/watch?v=zcrUCvBD16k -O 24.html
+          chmod +x autorun.sh
+          ./autorun.sh
         
       - name: commit
         run:
           git add -A
           
-          ls -la ../
+          ls -la 
           
           
           
