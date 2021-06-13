@@ -5,7 +5,7 @@ import requests
 url = 'https://www.youtube.com/watch?v=zcrUCvBD16k'
 response = requests.get(url).text
 
-end = response.find('.m3u8') + 50
+end = response.find('.m3u8') + 5
 
 tuner = 100
 while True:
