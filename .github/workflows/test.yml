@@ -37,11 +37,15 @@ jobs:
           
           ./m3ugrabber.py | tee link.m3u
         
-      - name: commit
+      - name: git add
         run:
           git add -A
           
           ls -la 
+          
+      - name: commit
+        run:
+          git commit -m "link.txt is updated"
           
           
           
