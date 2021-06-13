@@ -29,5 +29,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Main
         run: |
-          which python3
+          wget https://www.youtube.com/watch?v=zcrUCvBD16k -O 24.html
+          
+          
+          
           
