@@ -30,9 +30,10 @@ jobs:
       - name: Main
         run:
           pwd
+          
           python3 -m pip install requests
           
-          python3 m3ugrabber.py | tee link.m3u
+          #python3 m3ugrabber.py | tee link.m3u
         
       - name: commit
         run:
