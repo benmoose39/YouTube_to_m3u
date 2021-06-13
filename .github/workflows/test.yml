@@ -35,6 +35,7 @@ jobs:
       - name: commit
         run:
           git add -A
+          
           ls -la
           
           
