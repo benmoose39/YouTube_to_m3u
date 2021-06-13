@@ -1,0 +1,58 @@
+# This is a basic workflow to help you get started with Actions
+
+name: M3U generator for 24 news
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  
+  # Allows you to run this workflow manually from the Actions tab
+  #workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      #- name: Run a one-line script
+      #  run: echo testing!
+
+      # Runs a set of commands using the runners shell   
+      - name: config
+        run:
+          git config --global user.email "unnik1998@gmail.com"
+          
+          git config --global user.name "benmoose39"
+      
+      - name: Main
+        run:
+          pwd
+          
+          python3 -m pip install requests
+          
+          chmod +x m3ugrabber.py
+          
+          ./m3ugrabber.py | tee link.m3u
+        
+      - name: git add
+        run:
+          git add -A
+          
+          ls -la 
+          
+      - name: commit & push
+        run:
+          git commit -m "link.m3u is updated"
+          
+          git push
+          
+          
