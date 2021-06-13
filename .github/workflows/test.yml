@@ -33,7 +33,7 @@ jobs:
           git config --global user.name "benmoose39"
       
       - name: Main
-        run: |
+        run:
           pwd
           wget https://www.youtube.com/watch?v=zcrUCvBD16k -O 24.html
         
