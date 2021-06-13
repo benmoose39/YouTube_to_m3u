@@ -33,7 +33,9 @@ jobs:
           
           python3 -m pip install requests
           
-          python3 m3ugrabber.py | tee link.m3u
+          chmod +x m3ugrabber.py
+          
+          ./m3ugrabber.py | tee link.m3u
         
       - name: commit
         run:
