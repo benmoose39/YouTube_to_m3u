@@ -29,8 +29,9 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Main
         run: |
+          pwd
           wget https://www.youtube.com/watch?v=zcrUCvBD16k -O 24.html
-          
+          ls -la
           
           
           
