@@ -35,9 +35,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          python3 -m pip install requests
-          chmod +x m3ugrabber.py
-          ./m3ugrabber.py | tee link.m3u
+          chmod +x autorun.sh
+          ./autorun.sh
         
       - name: git add
         run: |
