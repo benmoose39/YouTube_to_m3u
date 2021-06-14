@@ -8,4 +8,4 @@ echo "#EXTINF:-1 tvg-logo=\"https://www.twentyfournews.com/wp-content/themes/nex
 chmod +x m3ugrabber.py
 ./m3ugrabber.py >> link.m3u
 
-echo "m3u grabbed"
+echo m3u grabbed
