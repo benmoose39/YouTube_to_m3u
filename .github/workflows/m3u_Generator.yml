@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: M3U generator for 24 news
+name: M3U generator
 
 # Controls when the action will run. 
 on:
