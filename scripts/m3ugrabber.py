@@ -17,7 +17,7 @@ def grab(url):
 	print(f"{link[start : end]}")
 
 print("#EXTM3U")
-with open('channel_info.txt') as f:
+with open('../channel_info.txt') as f:
 	for line in f:
 		line = line.strip()
 		if not line:
