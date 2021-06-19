@@ -1,5 +1,13 @@
 #! /usr/bin/python3
 
+banner = r'''
+ ____             __  __
+| __ )  ___ _ __ |  \/  | ___   ___  ___  ___
+|  _ \ / _ \ '_ \| |\/| |/ _ \ / _ \/ __|/ _ \
+| |_) |  __/ | | | |  | | (_) | (_) \__ \  __/
+|____/ \___|_| |_|_|  |_|\___/ \___/|___/\___|
+'''
+
 import requests
 
 def grab(url):
@@ -17,6 +25,7 @@ def grab(url):
 	print(f"{link[start : end]}")
 
 print("#EXTM3U")
+print(banner + '\n')
 with open('../channel_info.txt') as f:
 	for line in f:
 		line = line.strip()
