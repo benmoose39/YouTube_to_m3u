@@ -9,7 +9,7 @@ Updated m3u links of YouTube live channels
 ### Add more channels
 Edit `channel_info.txt` to add your favourite YouTube livestreams
 
-Create a pull request or connect: https://discord.gg/NScWCDm3
+Create a pull request or connect: https://discord.gg/dmgYmAEdee
 
 ### Usage
 Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
