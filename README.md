@@ -22,3 +22,5 @@ Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/mai
 >`chmod +x autorun.sh`
 
 >`./autorun.sh`
+
+Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
