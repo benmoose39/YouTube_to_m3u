@@ -30,7 +30,7 @@ def grab(url):
 
 print("#EXTM3U")
 print(banner)
-with open('channel_info.txt') as f:
+with open('../channel_info.txt') as f:
 	for line in f:
 		line = line.strip()
 		if not line:
