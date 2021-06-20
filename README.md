@@ -9,6 +9,8 @@ Add this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/
 ### Add more channels
 Edit `channel_info.txt` to add your favourite YouTube livestreams
 
+Create a pull request or connect: https://discord.gg/NScWCDm3
+
 ### Run the tool on your local machine
 >`git clone https://github.com/benmoose39/YouTube_to_m3u.git`
 
