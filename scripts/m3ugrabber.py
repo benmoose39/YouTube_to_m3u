@@ -37,7 +37,7 @@ with open('../channel_info.txt') as f:
 			continue
 		if 'https:' not in line:
 			line = line.split('|')
-			print(f'\n#EXTINF:-1 group-title="{line[1].strip().title()}", {line[0].strip()}')
+			print(f'\n#EXTINF:-1 tvg-id="{line[3].strip()}" tvg-logo="{line[2].strip()}" group-title="{line[1].strip().title()}", {line[0].strip()}')
 		else:
 			grab(line)
 
