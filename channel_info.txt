@@ -1,38 +1,41 @@
-24 News Malayalam | Malayalam
+24 News Malayalam | Malayalam | http://www.onlinechannels.live/wp-content/uploads/2018/12/24news_logo-270x203.png |111
 https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live
 
-Kairali News | Malayalam
+Kairali News | Malayalam | http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.PNG | 725
 https://www.youtube.com/user/Felizemediaplus/live
 
-Asianet News | Malayalam
+Asianet News | Malayalam | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_917/LOGO/dedf1984-6d3f-428a-a971-df0e022933b3.png | ts532
 https://www.youtube.com/user/asianetnews/live
 
-Reporter | Malayalam
+Reporter | Malayalam | http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png | 1408
 https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
 
-Mathrubhumi News | Malayalam
+Mathrubhumi News | Malayalam | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_802/LOGO/Xjdul5YF.png | 780
 https://www.youtube.com/user/TVMathrubhumi/live
 
-Media One News | Malayalam
+Media One News | Malayalam | http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_855/img_logo_mediaone.png | 00
 https://www.youtube.com/user/MediaoneTVLive/live
 
-Manorama News | Malayalam
+Manorama News | Malayalam | http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1029/ic_logo_manoramanews_1.png | 662
 https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
 
-News 18 Kerala | Malayalam
+News 18 Kerala | Malayalam | http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png | 965
 https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
 
-Polimer News | Tamil
+Polimer News | Tamil | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 636
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
-News7 Tamil | Tamil
+News7 Tamil | Tamil | http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png | 673
 https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 
-Thanthi TV | Tamil
+Thanthi TV | Tamil | http://www.thanthitv.com/Images/TTV-800x800.png | 830
 https://www.youtube.com/c/ThanthitvNews/live
 
-New18 TamilNadu | Tamil
+New18 TamilNadu | Tamil | http://7starcloud.in/NB.png | ts58
 https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
 
-GNN | Urdu
+Puthiya Thalaimurai | Tamil | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png | 677
+https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
+
+GNN | Urdu | http://gnnhd.tv/gnn/gnn-little.webp | 00
 https://www.youtube.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ/live
