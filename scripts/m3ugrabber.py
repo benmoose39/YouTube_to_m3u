@@ -35,7 +35,7 @@ with open('../channel_info.txt') as f:
         line = line.strip()
         if not line or line.startswith('~~'):
             continue
-        if 'https:' not in line:
+        if not line.startswith('https:'):
             line = line.split('|')
             ch_name = line[0].strip()
             grp_title = line[1].strip().title()
