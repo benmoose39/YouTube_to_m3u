@@ -21,6 +21,7 @@ def grab(url):
 
 
 print('#EXTM3U')
+print(banner)
 with open('ustvgo_channel_info.txt') as file:
     for line in file:
         line = line.strip()
