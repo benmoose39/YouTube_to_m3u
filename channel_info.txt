@@ -1,50 +1,53 @@
-24 News Malayalam | Malayalam
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+24 News Malayalam | Malayalam | |
 https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live
 
-Kairali News | Malayalam
+Kairali News | Malayalam | |
 https://www.youtube.com/user/Felizemediaplus/live
 
-Asianet News | Malayalam
+Asianet News | Malayalam | |
 https://www.youtube.com/user/asianetnews/live
 
-Reporter | Malayalam
+Reporter | Malayalam | |
 https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
 
-Mathrubhumi News | Malayalam
+Mathrubhumi News | Malayalam | |
 https://www.youtube.com/user/TVMathrubhumi/live
 
-Media One News | Malayalam
+Media One News | Malayalam | |
 https://www.youtube.com/user/MediaoneTVLive/live
 
-Manorama News | Malayalam
+Manorama News | Malayalam | |
 https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
 
-News 18 Kerala | Malayalam
+News 18 Kerala | Malayalam | |
 https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
 
-Polimer News | Tamil
+Polimer News | Tamil | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 636
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
-News7 Tamil | Tamil
+News7 Tamil | Tamil | http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png | 673
 https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 
-Thanthi TV | Tamil
+Thanthi TV | Tamil | http://www.thanthitv.com/Images/TTV-800x800.png | 830
 https://www.youtube.com/c/ThanthitvNews/live
 
-New18 TamilNadu | Tamil
+New18 TamilNadu | Tamil | http://7starcloud.in/NB.png | ts58
 https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
 
-Puthiya Thalaimurai | Tamil
+Puthiya Thalaimurai | Tamil | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png | 677
 https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
 
-GNN | Urdu
+GNN | Urdu | |
 https://www.youtube.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ/live
 
-ABC News | English
+ABC News | English | |
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-News 12 New York | English
+News 12 New York | English | |
 https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
 
-Euronews Albania | Albania
+Euronews Albania | Albania | https://cdn.discordapp.com/attachments/856150270727946251/856400762980532244/euronews.png |
 https://www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live
