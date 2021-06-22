@@ -16,6 +16,9 @@ import requests
 
 def grab(url):
     response = requests.get(url).text
+    if '.m3u8' not in response:
+        print()
+        return
     end = response.find('.m3u8') + 5
     tuner = 100
     while True:
