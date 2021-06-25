@@ -15,7 +15,7 @@ banner = r'''
 import requests
 
 def grab(url):
-    response = requests.get(url).text
+    response = requests.get(url, timeout=10).text
     if '.m3u8' not in response:
         print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
         return
