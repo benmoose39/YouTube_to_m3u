@@ -13,12 +13,16 @@ banner = r'''
 '''
 
 import requests
+import os
 
 def grab(url):
     response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
-        print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
-        return
+        os.system(f'wget {url} -O temp.txt')
+        response = ''.join(open('temp.txt').readlines())
+        if '.m3u8' not in response:
+            print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+            return
     end = response.find('.m3u8') + 5
     tuner = 100
     while True:
@@ -47,4 +51,6 @@ with open('../youtube_channel_info.txt') as f:
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
             grab(line)
-
+            
+if 'temp.txt' in os.listdir():
+    os.system('rm temp.txt')
