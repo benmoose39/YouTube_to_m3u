@@ -44,7 +44,7 @@ def grab(url):
     print(f"{link[start : end]}")
 
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
-print(banner)
+
 with open('../youtube_channel_info.txt') as f:
     for line in f:
         line = line.strip()
