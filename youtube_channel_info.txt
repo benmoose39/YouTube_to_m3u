@@ -162,3 +162,6 @@ https://www.youtube.com/watch?v=qMtcWqCL_UQ
 
 A2 CNN | News | https://a2news.com/wp-content/themes/a2cnn/assets/images/a2logo-red-sqaure.png |
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=dPd4Y1Ar7t8
+
+Al Jazeera Balkans | Balkans | https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png |
+https://www.youtube.com/watch?v=ng1zLZnjQbI
