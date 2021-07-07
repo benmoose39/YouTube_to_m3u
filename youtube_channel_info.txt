@@ -83,10 +83,10 @@ hmtv | Telugu | https://upload.wikimedia.org/wikipedia/en/thumb/0/03/HMTV_Channe
 https://www.youtube.com/watch?v=qIY8IeluF9g&ab_channel=hmtvNews
 
 ETV Telangana | Telugu | https://yt3.ggpht.com/ytc/AAUvwniQMpbKoMS8fmaZcq47M2iJDMmVs8eof22zCQf4=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=JIIK4WzXnAw
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=JIIK4WzXnAw
 
 ETV Andhra Pradesh | Telugu | https://upload.wikimedia.org/wikipedia/commons/5/5f/ETV_Andhra_Pradesh.png |
-https://www.youtube.com/watch?v=kR5vs49ppkI
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=kR5vs49ppkI
 
 iNews | Telugu | https://yt3.ggpht.com/ytc/AAUvwnjsgaGsmsUgf_p4eaYu1GqAiHOE1WjTlcIy0ZTBDQ=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=akYs2CS_8mI&ab_channel=iNewsLive
@@ -101,7 +101,7 @@ CVR News | Telugu | https://static.wikia.nocookie.net/logopedia/images/e/e3/CVR_
 https://www.youtube.com/watch?v=_kx2HsngMNY
 
 99TV | Telugu | https://upload.wikimedia.org/wikipedia/en/5/5f/99tv_channel_logo.jpg |
-https://www.youtube.com/watch?v=8sIJvZXOKpY
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=8sIJvZXOKpY
 
 Asianet Suvarna News | Kannada | https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg |
 https://www.youtube.com/channel/UCjElJyiXmQXnWmceQ1JyKrA/live
@@ -161,4 +161,4 @@ DW News | News | https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deuts
 https://www.youtube.com/watch?v=qMtcWqCL_UQ
 
 A2 CNN | News | https://a2news.com/wp-content/themes/a2cnn/assets/images/a2logo-red-sqaure.png |
-https://www.youtube.com/watch?v=dPd4Y1Ar7t8
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=dPd4Y1Ar7t8
