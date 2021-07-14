@@ -165,3 +165,6 @@ https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.co
 
 Al Jazeera Balkans | ExYu | https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png |
 https://www.youtube.com/watch?v=ng1zLZnjQbI
+
+Aradana TV | Telugu | https://yt3.ggpht.com/ytc/AKedOLQeRvD6PiuhxSooq2jJEt9Wf9p32Y0D_nNJB5BiP8g=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=237RUcvLmqw
