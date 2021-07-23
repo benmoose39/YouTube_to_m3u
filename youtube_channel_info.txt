@@ -83,10 +83,10 @@ hmtv | Telugu | https://upload.wikimedia.org/wikipedia/en/thumb/0/03/HMTV_Channe
 https://www.youtube.com/watch?v=qIY8IeluF9g&ab_channel=hmtvNews
 
 ETV Telangana | Telugu | https://yt3.ggpht.com/ytc/AAUvwniQMpbKoMS8fmaZcq47M2iJDMmVs8eof22zCQf4=s900-c-k-c0x00ffffff-no-rj |
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=JIIK4WzXnAw
+https://www.youtube.com/watch?v=JIIK4WzXnAw
 
 ETV Andhra Pradesh | Telugu | https://upload.wikimedia.org/wikipedia/commons/5/5f/ETV_Andhra_Pradesh.png |
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=kR5vs49ppkI
+https://www.youtube.com/watch?v=Ig3jrZb1lrE
 
 iNews | Telugu | https://yt3.ggpht.com/ytc/AAUvwnjsgaGsmsUgf_p4eaYu1GqAiHOE1WjTlcIy0ZTBDQ=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=akYs2CS_8mI&ab_channel=iNewsLive
