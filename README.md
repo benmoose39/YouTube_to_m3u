@@ -5,7 +5,7 @@
 
 `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u`
 
-Updated m3u links of YouTube live channels, **auto-updated every hour**.
+Updated m3u links of YouTube live channels, **auto-updated every 2 hours**.
 
 
 ### Add more channels
