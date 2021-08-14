@@ -157,9 +157,6 @@ https://youtube.com/c/ZipTrader/live
 Sky News | News | |
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
-DW News | News | https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png |
-https://www.youtube.com/watch?v=qMtcWqCL_UQ
-
 A2 CNN | News | https://a2news.com/wp-content/themes/a2cnn/assets/images/a2logo-red-sqaure.png |
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=dPd4Y1Ar7t8
 
@@ -528,3 +525,6 @@ https://www.youtube.com/watch?v=PbmV0dIgcjU
 
 Haa Taa Deep -Chillout Lounge - Calm & Relaxing Background Music - Study, Work, Sleep, Meditation, Chill | Music | |
 https://www.youtube.com/watch?v=7gJ222N-ieg
+
+France24 | News | |
+https://www.youtube.com/watch?v=aHh8rA0hks8
