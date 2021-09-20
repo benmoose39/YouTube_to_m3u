@@ -1,4 +1,15 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1632165742/ei/DotIYbu5OJeligSk0pj4Dw/ip/104.210.214.94/id/QCOUDsARLVQ.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr5---sn-q4flrnld.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/5D/mm/44/mn/sn-q4flrnld/ms/lva/mv/u/mvi/5/pl/17/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1632143190/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIge_i0J3ZUy58UcUI7c8qt3bcVGQ7OSpd8golYMrwTcl0CIExTszxpTMo3t7MJlxIVo4qkE0e6gNartSUuoW4xzqFs/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgOp7YBcLI0H-GO6FSvqwqtDtaGR4yZPeDQeUjs1aXUVMCIGnw6OsQVuNWTgPFJlnilgiQcsVibNTRP8yDcAreK5yo/playlist/index.m3u8
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="1" tvg-logo="" tvg-id="", 1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1632166739/ei/845IYfHnJszSkga6vp1w/ip/20.106.93.226/id/QCOUDsARLVQ.1/source/yt_live_broadcast/requiressl/yes/tx/24027932/txs/24027931%2C24027932/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcmkdho7Lb8-mR3G1oHJgHpkFp1YJQ5-jSQTn_KofuXACIQCxqJNJGnA_DDVIZEkVZzaGYaO8xl7hV9ChvztbwDLCHA%3D%3D/file/index.m3u8
