@@ -22,9 +22,6 @@ https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
 News 18 Kerala | Malayalam | https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png |
 https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
 
-Mangalam TV | Malayalam | https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mangalam_logo.png/200px-Mangalam_logo.png |
-https://www.youtube.com/c/mangalamtv/live
-
 Polimer News | Tamil | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 636
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
@@ -129,6 +126,9 @@ https://www.youtube.com/channel/UCNVkxRPqsBNejO6B9thG9Xw/live
 
 Jai Hind | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg | 
 https://www.youtube.com/channel/UChtWcZy3HqvIypuk9787POA/live
+
+Mangalam TV | Malayalam | https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mangalam_logo.png/200px-Mangalam_logo.png | 
+https://www.youtube.com/c/mangalamtv/live
 
 Telugu Movies 2021 | Telugu | |
 https://www.youtube.com/watch?v=5UvC9XEAL9k
@@ -307,14 +307,44 @@ https://www.youtube.com/user/azamtv1/live
 DW News | International News | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
 
+Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live   
+
+France 24 | International News | https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png |
+https://www.youtube.com/watch?v=jNhh-OLzWlE/live
+
+Euro News | International News | https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/220px-Euronews_2016_logo.svg.png |
+https://www.youtube.com/watch?v=sPgqEHsONK8/live
+
+Russia Today (World) | International News | https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png |
+https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg/live
+
+TRT World | International News | https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/250px-TRT_World.svg.png |
+https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
+
+Channel News Asia | International News | https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png |
+https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live
+
+ABC News (US) | International News | https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/220px-ABC_News_logo_2021.svg.png |
+https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
+
+ABC News (Australia) | International News | https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/ABC_News_Channel.png/250px-ABC_News_Channel.png |
+https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q/live
+
 Sky News | International News | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 
 GBNews | International News | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
 
-Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
+Russia Today (UK) | International News | https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png |
+https://www.youtube.com/channel/UC_ab7FFA2ACk2yTHgNan8lQ/live
+
+Africa News | International News | https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/250px-Africanews_logo.svg.png |
+https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live
+
+Channels TV Africa | International News | https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Channels_TV.jpg/200px-Channels_TV.jpg |
+https://www.youtube.com/watch?v=dfB0qmJo1eM
 
 Art of Melodic Techno & House Radio | Radio | |
 https://www.youtube.com/watch?v=mj6O42HRPLA    
