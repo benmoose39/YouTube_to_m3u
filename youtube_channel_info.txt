@@ -1,8 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
-https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live
+Bing nederlands | Bing | https://yt3.ggpht.com/ytc/AKedOLRme4A-bbv7DaadOn8lOCZQCHee-P5n2GCXEjzn=s176-c-k-c0x00ffffff-no-rj-mo |
+https://www.youtube.com/c/bingbunnyNL
 
 Kairali News | Malayalam | https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115 |
 https://www.youtube.com/user/Felizemediaplus/live
