@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+#EXTM3U x-tvg-url=""
 
 #########################################################################
 #      ____            _           _   __  __                           #
@@ -11,5 +11,5 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", Ekattor TV Live
+#EXTINF:-1 group-title="Трансляции Богослужений" tvg-logo="https://img.youtube.com/vi/1rBwioUZ_is/maxresdefault.jpg" tvg-id="", Церковь Надежда Дятьково
 https://www.youtube.com/api/manifest/hls_playlist/expire/1668367110/ei/pu5wY5sOgoPsBLrXoDA/ip/84.42.74.222/id/1rBwioUZ_is.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr1---sn-f5f7lnld.c.youtube.com/force_finished/1/vprv/1/playlist_type/CLEAN/initcwndbps/1538750/mh/Rk/mm/32/mn/sn-f5f7lnld/ms/su/mv/m/mvi/1/pl/24/sc/yes/dover/11/pacing/0/fexp/24001373,24007246/beids/24239135/mt/1668345169/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,force_finished,vprv,playlist_type/sig/AOq0QJ8wRAIgV5TH_tZD39ejuaBOP6dQ6tIexjKRlStdj--31Cdb71YCIF_-FbPFFToIRGcBB2RI07LocJ0DlUgv5zmoDLB6fA6J/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRQIgEmmfAOtZxv97ONCgS2eb2vw42AMLdfa-tUO0O2BbCk0CIQD-3vuMmBqdBORb5E4X1kVA56zP1bP5NAb7wnUcZJCQsA%3D%3D/playlist/index.m3u8
