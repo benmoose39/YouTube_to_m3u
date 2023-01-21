@@ -1,6 +1,19 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+
+Bloomberg Global Financial News | News | https://i.imgur.com/vR0TpN9.png |
+https://www.youtube.com/watch?v=dp8PhLsUcFE
+
+SKY NEWS | UK | https://i.imgur.com/h9vCGRv.png |
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+TVONE TV | INDONESIA | https://i.imgur.com/YcqA1r5.png |
+https://www.youtube.com/watch?v=yNKvkPJl-tg
+
+METRO TV TV | INDONESIA | https://i.imgur.com/veSpg5d.png |
+https://www.youtube.com/watch?v=JN5XZ_0_WjY
+
 KOMPAS TV | INDONESIA | https://i.imgur.com/gedm3QF.png |
 https://www.youtube.com/watch?v=Za5-fvwbPJI
 
