@@ -72,16 +72,16 @@ TV9 Telugu | Telugu | https://static.wikia.nocookie.net/logopedia/images/4/46/TV
 https://www.youtube.com/watch?v=II_m28Bm-iM
 
 NTV Telugu | Telugu | https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png |
-https://www.youtube.com/watch?v=HUiHKse-YgM&ab_channel=NTVTelugu
+https://www.youtube.com/watch?v=c3PzWZlboxg
 
 TV5 Telugu | Telugu | https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png/revision/latest?cb=20190307135451 |
-https://www.youtube.com/watch?v=lyRusqvbZMc&ab_channel=TV5News
+https://www.youtube.com/watch?v=ox2rT1KRkFI
 
 Sakshi TV | Telugu | https://static.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg/revision/latest?cb=20171213115114 |
 https://www.youtube.com/watch?v=8McTsOqeueE&ab_channel=SakshiTVLive
 
 ABN Telugu | Telugu | https://static.wikia.nocookie.net/logopedia/images/4/43/ABN_Andhra_Jyothi.jpeg/revision/latest?cb=20191226131028 |
-https://www.youtube.com/watch?v=IKj_cj51_W0&ab_channel=ABNTelugu
+https://www.youtube.com/watch?v=zwES4--H1aM
 
 V6 News | Telugu | https://upload.wikimedia.org/wikipedia/en/b/b0/V6_News_logo.png |
 https://www.youtube.com/watch?v=bl9VaUaI0r0&ab_channel=V6NewsTelugu
@@ -90,7 +90,7 @@ T News | Telugu | https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png
 https://www.youtube.com/watch?v=m4QKX6fdBKE&ab_channel=TNewsLive
 
 10TV Telugu | Telugu | https://d3anib4n105rak.cloudfront.net/wp-content/themes/veegam-news/images/logo1.png |
-https://www.youtube.com/watch?v=IHuHxUo4Yps&ab_channel=10TVNewsTelugu
+https://www.youtube.com/watch?v=PcTpDnGtNKE
 
 hmtv | Telugu | https://upload.wikimedia.org/wikipedia/en/thumb/0/03/HMTV_Channel_Logo.png/220px-HMTV_Channel_Logo.png |
 https://www.youtube.com/watch?v=qIY8IeluF9g&ab_channel=hmtvNews
@@ -688,3 +688,6 @@ https://www.youtube.com/watch?v=O4_0VfXZCiY
 
 Dubuque County - Swiss Valley Nature Center | Camera | |
 https://www.youtube.com/watch?v=NNpfHCGM9OM
+
+ETV Andhra Pradesh | Telugu | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSKyG5Wzn7wGOeU27uVWYQi2PxrdkcwapBw&usqp=CAU |
+https://www.youtube.com/watch?v=QObml46FuOs
