@@ -90,7 +90,7 @@ T News | Telugu | https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png
 https://www.youtube.com/watch?v=m4QKX6fdBKE&ab_channel=TNewsLive
 
 10TV Telugu | Telugu | https://d3anib4n105rak.cloudfront.net/wp-content/themes/veegam-news/images/logo1.png |
-https://www.youtube.com/watch?v=IHuHxUo4Yps&ab_channel=10TVNewsTelugu
+https://www.youtube.com/watch?v=PcTpDnGtNKE
 
 hmtv | Telugu | https://upload.wikimedia.org/wikipedia/en/thumb/0/03/HMTV_Channel_Logo.png/220px-HMTV_Channel_Logo.png |
 https://www.youtube.com/watch?v=qIY8IeluF9g&ab_channel=hmtvNews
