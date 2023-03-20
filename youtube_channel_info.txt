@@ -135,7 +135,7 @@ Al Jazeera Balkans | ExYu | https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Ja
 https://www.youtube.com/watch?v=ng1zLZnjQbI
 
 Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
+https://www.youtube.com/@reporterlive
 
 Janam TV | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png |
 https://www.youtube.com/channel/UCNVkxRPqsBNejO6B9thG9Xw/live
@@ -733,3 +733,6 @@ https://www.youtube.com/watch?v=ZrZo9gSOZL4
 
 ETV Andhra Pradesh | Telugu | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSKyG5Wzn7wGOeU27uVWYQi2PxrdkcwapBw&usqp=CAU |
 https://www.youtube.com/watch?v=QObml46FuOs
+
+Raj News Malayalam | Malayalam | https://yt3.googleusercontent.com/KXweUWc-EnwoUX_qjTLTTudGstfQKIS2XnEHk01Tu4uSlQ5lrOqtOrbRxqsJ6eS8sDAY1EMj=s176-c-k-c0x00ffffff-no-rj
+https://www.youtube.com/@rajnewsmalayalamonair
