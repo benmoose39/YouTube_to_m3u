@@ -72,7 +72,7 @@ TV9 Telugu | Telugu | https://static.wikia.nocookie.net/logopedia/images/4/46/TV
 https://www.youtube.com/watch?v=II_m28Bm-iM
 
 NTV Telugu | Telugu | https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png |
-https://www.youtube.com/watch?v=c3PzWZlboxg
+https://www.youtube.com/watch?v=_kPE2uUR8SI
 
 TV5 Telugu | Telugu | https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png/revision/latest?cb=20190307135451 |
 https://www.youtube.com/watch?v=ox2rT1KRkFI
@@ -81,7 +81,7 @@ Sakshi TV | Telugu | https://static.wikia.nocookie.net/logopedia/images/5/52/Sak
 https://www.youtube.com/watch?v=8McTsOqeueE&ab_channel=SakshiTVLive
 
 ABN Telugu | Telugu | https://static.wikia.nocookie.net/logopedia/images/4/43/ABN_Andhra_Jyothi.jpeg/revision/latest?cb=20191226131028 |
-https://www.youtube.com/watch?v=zwES4--H1aM
+https://www.youtube.com/watch?v=EUesLjuZYo8
 
 V6 News | Telugu | https://upload.wikimedia.org/wikipedia/en/b/b0/V6_News_logo.png |
 https://www.youtube.com/watch?v=_xtceKvlVYQ
@@ -90,7 +90,7 @@ T News | Telugu | https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png
 https://www.youtube.com/watch?v=Rg_Iu_hT43E
 
 10TV Telugu | Telugu | https://d3anib4n105rak.cloudfront.net/wp-content/themes/veegam-news/images/logo1.png |
-https://www.youtube.com/watch?v=QrZchtv2Yv0
+https://www.youtube.com/watch?v=NlnY6tCCC3A
 
 hmtv | Telugu | https://upload.wikimedia.org/wikipedia/en/thumb/0/03/HMTV_Channel_Logo.png/220px-HMTV_Channel_Logo.png |
 https://www.youtube.com/watch?v=2fvNaWiBUPU
@@ -732,4 +732,7 @@ HUM TV HD  | Pakistan | https://hum.tv/wp-content/uploads/2022/03/logo-2.png |
 https://www.youtube.com/watch?v=ZrZo9gSOZL4
 
 ETV Andhra Pradesh | Telugu | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlSKyG5Wzn7wGOeU27uVWYQi2PxrdkcwapBw&usqp=CAU |
-https://www.youtube.com/watch?v=QObml46FuOs
+https://www.youtube.com/watch?v=STCAcC-qn7c
+
+ETV Telangana | Telugu | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGNAZMB7IuZ5zRRDd75zSPnW930qd95nUvw&usqp=CAU |
+https://www.youtube.com/watch?v=IN9OA5VmvTo
