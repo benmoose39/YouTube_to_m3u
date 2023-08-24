@@ -32,9 +32,6 @@ https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
 News 18 Kerala | Malayalam | https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png |
 https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
 
-Mangalam TV | Malayalam | https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Mangalam_logo.png/200px-Mangalam_logo.png |
-https://www.youtube.com/c/mangalamtv/live
-
 Polimer News | Tamil | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 636
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
@@ -135,10 +132,10 @@ Al Jazeera Balkans | ExYu | https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Ja
 https://www.youtube.com/watch?v=ng1zLZnjQbI
 
 Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
+https://www.youtube.com/@reporterlive/live
 
 Janam TV | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/220px-Janam_TV_logo.png |
-https://www.youtube.com/channel/UCNVkxRPqsBNejO6B9thG9Xw/live
+https://www.youtube.com/@JanamLiveTV/live
 
 Jai Hind | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jaihind_TV_Logo.jpg/200px-Jaihind_TV_Logo.jpg | 
 https://www.youtube.com/channel/UChtWcZy3HqvIypuk9787POA/live
@@ -748,3 +745,37 @@ https://www.youtube.com/watch?v=D5nbz4NWhuo
 
 LS FM | GMA Network | |
 https://www.youtube.com/watch?v=NdOD2fzf7PM
+
+Euronews Greece LIVE | Greece | |
+https://www.youtube.com/watch?v=uWIhV9gQClg
+
+ANN JapaNews24 | Japanese | https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg |
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+
+ANN News | Japanese | https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg |
+https://www.youtube.com/watch?v=mB-prl5HTV8
+
+Raj News Malayalam | Malayalam | https://i.imgur.com/3UqAbx0.jpg |
+https://www.youtube.com/@RajNewsMalayalamOnline/live
+
+TimCastIRL | Political Podcast | https://th.bing.com/th/id/OIP.V8EHOTTrr9QMNjGWktpJzgHaHa?pid=ImgDet&rs=1 |
+https://www.youtube.com/user/@TimcastIRL/live
+
+Fightful TV Live | Wrestling | https://yt3.googleusercontent.com/oBdqmxfmTutDSSHKnJcXPW45Hn5cSbjZvHzLnxkjaVzdWlddDjR9TjthXjv4Jqpxja3DAEg49w=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/@Fightful/live
+
+F4W TV Live | Wrestling | https://yt3.googleusercontent.com/ytc/AGIKgqM0c71O73VxVTNpYUyl_nMdM9Yp55SIgS1-foql=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/@F4WOnlinetv/live
+
+Solomonster Sounds Off Live | Wrestling | https://yt3.googleusercontent.com/K4NYzoYhZdZSHjpFjqVim2mBg2tlsqk0hc8F3xQ7Iy3gCLHQob6iIApc2vBiWjJGLUpTYCzoYg=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/@TheSolomonster/live
+
+POST Wrestling Live | Wrestling | https://yt3.googleusercontent.com/LxgvHIFqS8sFGOo2SrrH6iDlw4Nsf0nycSBJBm9oddaUYOlAZBB_9Oye4NDDZoFCA42MTDxsVPY=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/@POSTWrestling/live
+
+CobraCastIRL | Political Podcast | https://i.ytimg.com/vi/2Kd7042PUKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4sk_L5NXEPpNRbkELAOnptIkYpQ |
+https://www.youtube.com/@DDayCobra/live
+
+Aastha TV | Spiritual | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+https://www.youtube.com/@AasthaChannel/live
+
