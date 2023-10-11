@@ -779,3 +779,8 @@ https://www.youtube.com/@DDayCobra/live
 Aastha TV | Spiritual | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
 https://www.youtube.com/@AasthaChannel/live
 
+Reuters Live 1 | Global | https://www.reuters.com/pf/resources/images/reuters/logo-vertical-default-512x512.png?d=160 |
+https://www.youtube.com/watch?v=b6xBrZFEeiQ
+
+Reuters Live 2 | Global | https://www.reuters.com/pf/resources/images/reuters/logo-vertical-default-512x512.png?d=160 |
+https://www.youtube.com/watch?v=L0gX47baak0
