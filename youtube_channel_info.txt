@@ -2,7 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-老高 | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
-https://youtube.com/@laogao?si=SQlX5vFLc7p0Ah5B
+老高 | https://youtube.com/@laogao?si=SQlX5vFLc7p0Ah5B
 
 自说自话的总裁 | https://youtube.com/@STBoss?si=_XaSzC5veEQ8UiOb
