@@ -1,6 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+FAMAtv | Malaysia| https://yt3.googleusercontent.com/ytc/AIf8zZQIovupqUOCM5fAqW-iSy93iBVJerhDag9OC4fo=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=zcQ4t7zdodM&list=PLDuTk9-t0QoqFVKw_3WhjUiBP2-7E-DeY&pp=iAQB
 
 Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
