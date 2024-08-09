@@ -50,4 +50,4 @@ jobs:
       - name: commit & push
         run: |
           git commit -m "links are updated"
-          git push
+          git push -f
