@@ -65,5 +65,5 @@ with open('../youtube_channel_info.txt') as f:
             grab(line)
             
 if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
+    #os.system('rm temp.txt')
     os.system('rm watch*')
