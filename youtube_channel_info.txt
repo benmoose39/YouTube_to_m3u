@@ -1,5 +1,41 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Kapamilya Channel | Philippines | https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/kapamilya-channel-ph.png?raw=true | kapamilya.ph
-https://www.youtube.com/abscbnentertainment/live
+Kapamilya Channel (ABS-CBN2) | Youtube | https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/kapamilya-channel-ph.png?raw=true | kapamilya.ph
+https://www.youtube.com/@abscbnentertainment/live
+
+PTV4 | Youtube | https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/ptv-ph.png?raw=true | ptv.ph
+https://www.youtube.com/@ptvph/live
+
+GMA7 | Youtube | https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/gma-ph.png?raw=true | gma.ph
+https://www.youtube.com/@gmanetwork/live
+
+UNTV | Youtube | https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/untv-ph.png?raw=true | untv.ph
+https://www.youtube.com/@UNTVNewsandRescue/live
+
+CNA Insider | Youtube | https://yt3.ggpht.com/0i-Y1gvY53RQGXdlQigtqp4yNQRTudeO-MJ7khXddxqnr3KrYlEpyUXC3OGaEvgAbLN4CMDLVg=s88-c-k-c0x00ffffff-no-rj | cna_insider.yt
+https://www.youtube.com/@cnainsider/live
+
+Net25 | Youtube | https://yt3.ggpht.com/5sa8CuD6KoDSHtFDZAFTZ83x19vvkCivZRgOmktEzAg9xkBtezJBbAD-EXKybXzt-_kRnBIysg=s88-c-k-c0x00ffffff-no-rj | net25.ph
+https://www.youtube.com/@NET25TV/live
+
+Dry Bar Comedy TV | Youtube | https://yt3.ggpht.com/B5A3kkDDwdV8gBuOsvYvQmSS1f4s_3EdhdFbNOBLZfCOT_lmT9CWmqBf0q96hSGLGnRBEJ3d6g=s88-c-k-c0x00ffffff-no-rj | drybar.yt
+https://www.youtube.com/@DryBarComedy/live
+
+NHK World Japan News | Youtube | https://yt3.ggpht.com/ytc/AIdro_kszV-U0y9bmmReWcZogjST1oUq5oXN0GGQz2jHlkLddmY=s88-c-k-c0x00ffffff-no-rj | nhkworldjapan.yt
+https://www.youtube.com/@NHKWORLDJAPAN/live
+
+【ライブ】渋谷スクランブル交差点 | Youtube | https://yt3.ggpht.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s88-c-k-c0x00ffffff-no-rj | shibuya01.yt
+https://www.youtube.com/watch?v=Vv3Sbr1lAMg
+
+【LIVE】渋谷・スクランブル交差点 | Youtube | https://yt3.ggpht.com/ytc/AIdro_n8YQJMQc7RV3BfXNUsvx8HyPteJ-BC-9BGX56c7MsQg1s=s88-c-k-c0x00ffffff-no-rj | shibuya02.yt
+https://www.youtube.com/watch?v=x5LxRBgXSKs
+
+【SKY LIVE CAMERA】SHIBUYA CROSSING／渋谷スクランブル交差点‐SHIBUYA SKYからの景色 | Youtube | https://yt3.ggpht.com/m-PTCLbWNb0KidCgxb3XcYvAZSsW63wpCfwbD0Q9XhCQpDGSqSB7k62E2uZe-3WPNjQpnzhiQw=s88-c-k-c0x00ffffff-no-rj | shibuya03.yt
+https://www.youtube.com/@shibuyasky7253/live
+
+Arirang TV | Youtube | https://yt3.ggpht.com/IZQtG31ACxsgX5Cetkm2cKNxxAmTvyF2Xfa7zc2uGBLWw0rYpgtzIdoEsueXbOahFHfLa9VdeJc=s88-c-k-c0x00ffffff-no-rj | arirang.yt
+https://www.youtube.com/@KOREAarirangTV/live
+
+KBS World TV | Youtube | https://yt3.ggpht.com/ytc/AIdro_nYneSzNh7_fxCLOOkFxVaMDd55aFmPFY9NvFb_i-R8EKjE=s88-c-k-c0x00ffffff-no-rj | kbskorea.yt
+https://www.youtube.com/@kbsworldtv/live
