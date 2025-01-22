@@ -72,10 +72,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ytimg.com/vi/Bz_lsdTuNl0/hq720_2.jpg" tvg-id="", Tribunnews Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737580118/ei/9gmRZ_-nJdvXsfIPtOCwwQc/ip/52.234.46.159/id/jcpmWi072X8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MDjv91Litoecy1uhlLbsNffc1giqxKEzzZePsJaFqgnixVYgFncVgu8wRt31pm6mQvHwsAnW1B/spc/9kzgDQowFfT3_dpJu5FtLlwCdW0ddisS1XGRI87c1q45EOWqbuZNmKGE-KdM1ZE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPGL_bz9wQj7hTVD9-RKp-IpSiDMrhVdj2lKPFojIL1_AiEAsGKNrNNvi9ig2i6wSY51faxAdUgWM8svOVX2uvpEE8s%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316" tvg-id="", TV9 Telugu
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737580120/ei/9wmRZ8e5N4_zsfIP_-rjqQc/ip/52.234.46.159/id/II_m28Bm-iM.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51380155/txs/51380152%2C51380153%2C51380154%2C51380155/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PgG6tRr4plxsyrYZ689p8OZOQaowZDGZqZmTpgMwL6ItjIcCROgYYkJEOxGX_YBSMmldbFwTT3/spc/9kzgDUjKwaaoG9UkEnfqTMFCbt_9cWmD9pI9WwQFvwmdjrb0CyM8RKFSweF9QTQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALt-Gtpl6SZE-iyUzWB7dIbq2oPTpSwWMo3OVYtV0kYTAiABDYBGc-hbXw3p93J5AvZGbcdyO3Bt06m2zLNqxtKRlg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" tvg-id="", NTV Telugu
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -117,7 +117,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://www.tv5kannada.com/images/logo.png" tvg-id="", TV5 Kannada
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737580129/ei/AQqRZ5v3Lb2-sfIPjNfFkAQ/ip/52.234.46.159/id/SE63QJbhlJU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MbpB6USYmAmAsJrRAaZBSbShq8G9x_yfChjbKBpaMBPIcd6xIxKXJYypExikMXhQjUnP8xn6bD/spc/9kzgDTMT2W50AyU1TmCPxqjbp0MoiLcSoS6X2GDxt_vB5u9LljS2Uyrtb1NabL8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgT1Wpd4B_3VesgqeS1AmwTub_XXYMjtzRDf55oJR4RI0CIQDLM8bORZY_LWFiQI65iYzgCg4kdikjZKFKJI3Yx9z_qw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" tvg-id="", TV9 Kannada
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
