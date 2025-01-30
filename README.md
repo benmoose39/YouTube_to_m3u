@@ -14,11 +14,11 @@ Edit `youtube_channel_info.txt` to add your favourite YouTube livestreams
 Create a pull request or connect: https://discord.gg/dmgYmAEdee
 
 ### Usage
-Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
+Paste this URL: `https://raw.githubusercontent.com/bijfy/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
-git clone https://github.com/benmoose39/YouTube_to_m3u.git
+git clone https://github.com/bijfy/YouTube_to_m3u.git
 cd YouTube_to_m3u
 chmod +x autorun.sh
 ./autorun.sh
