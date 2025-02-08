@@ -447,7 +447,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Wion
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1739005950/ei/nsumZ_rkH5ivlu8PufPImAk/ip/20.102.199.209/id/rc5qPeKW3Fk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-ML0tpMWPfZdqU0QsAsMXaQDQPYFrcKzNxv61j0Ak6g5yoCOidTXDV-8OxTj4bXibEJOKyr0exu/spc/9kzgDYE_zaOnEuZoY6bQcME-53AFXqgvQa5KCDrS4RIrHDaKbBppZxrBKlBEjBg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL1q2Z2OAJfdkfzH9rElg-kjYV88yuYcAWQLl6iBjvilAiEAwT0E_I7Ajaxchk75bnJ58af-whF7rc03M1mtajud8Cs%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="" tvg-id="", Molek FM live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
