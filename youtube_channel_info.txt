@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-KapamilyaLive | KapamilyaLive | https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png |
+KapamilyaLive | Kapamilya | https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png |
 https://www.youtube.com/abscbnentertainment/live
