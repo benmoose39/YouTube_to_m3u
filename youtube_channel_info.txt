@@ -1,5 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
-https://www.youtube.com/c/24OnLive/live
+Kapamilya Live | Kapamamilya | https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png |
+https://www.youtube.com/abscbnentertainment/live
+
+GMA | GMA | https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png |
+https://www.youtube.com/@gmanetwork/live
