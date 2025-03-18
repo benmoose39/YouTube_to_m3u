@@ -438,7 +438,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ZoomOn News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742289892/ei/hOfYZ4LoH4S_lu8Pv56vgA4/ip/20.25.193.237/id/V1KS1YSXrBM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcOy-l0bJLctTCw0PpyBorYzaRIn7PtCQufXQS1OygGBwHORXO7hfLN1eQuWvC9gZJK4cTdQkuOc/spc/_S3wKsaE4YG06e5fbCmKcPQFaIoKOAwdxPAGeV2tT_fGF8uGKyx4TSUz8F_cYb4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKfg_eu0q-SJwZImvK3f014nB10XQd_b5vb77rRHIgv5AiEA6sgcnqZM55CVkHHD5ctf5kYVNtzrlK_h08BODNqKrzQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Siddhivinayak Temple Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -480,4 +480,4 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742280290/ei/AsLYZ6-2K9Wa2_gP9onbgQc/ip/172.183.199.214/id/sUKwTVAc0Vo.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMsKAQM0plDi9NYocbPo3vClZvJA-L063p6J61yf9Ory2DnC-mTQR0_LUkeoLgLnKl5Mnj-CEJ_/spc/_S3wKq2Lr2NVl6XeSIpq7HNKrTeSqVbwndbBHYPiicgLyzd526Cbrq3HRoxoqQk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51411872%2C51435732/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgUdOjbDl3laO2V-B_qPPNJmJ5YGPL21EdLBsGZ9_AGSwCIDBtUx1Z1ZJrWVW4QxFd4Qbk6IA4Vbk7-6owVvV88Udj/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
