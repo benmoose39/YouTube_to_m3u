@@ -1,3 +1,31 @@
+## 📡 From Global Playlist to Personalized Streaming — Introducing [M3USe](https://m3use.projectmoose.xyz)
+
+Hey folks — if you've used or followed this repo in the past, you might remember it started as an automated GitHub Actions workflow that created a public M3U playlist of livestreams (mostly YouTube). You could request channels, and I'd manually add them to the playlist for everyone.
+
+But things have evolved.
+
+### 🎉 Meet [M3USe](https://m3use.projectmoose.xyz) — A Web App for Custom Livestream Playlists
+
+✅ Add livestreams from **YouTube**, **Twitch**, and **Dailymotion**  
+✅ Build your **own playlist** — no more global list  
+✅ Use with **any IPTV player** (VLC, Kodi, TiviMate, etc.)  
+✅ Your playlist, your links, your rules
+
+💡 No more waiting for manual updates or one-size-fits-all playlists. You just paste the channel URL, and the backend takes care of the rest.
+
+---
+
+> This is an indie passion project powered by the [Project Moose Discord](https://discord.gg/dmgYmAEdee) — and it’s live now.  
+> 🚀 Try it out: [https://m3use.projectmoose.xyz](https://m3use.projectmoose.xyz)
+
+Got ideas, feedback, or requests? Drop by the Discord or open a discussion here!
+
+---
+
+[![Live App](https://img.shields.io/badge/Live%20App-M3USe-green?style=flat-square)](https://m3use.projectmoose.xyz)
+
+
+--------------------------- END (old content below) ---------------------------
 
 <h1 align="center"> YouTube_to_m3u </h1>
 
