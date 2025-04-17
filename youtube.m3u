@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744872264/ei/504AaJvePKy3kucP-eCumQQ/ip/20.55.86.201/id/2bk3gVrO8aQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442269/txs/51442265%2C51442266%2C51442267%2C51442268%2C51442269%2C51442270/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMw1UGRAvNJ95nhzpQni-DSx_0l3lM8CPEcuZ7NZ3fYrQ6OVzoUphRjUYTn69txoFlCexHg7_hd/spc/_S3wKuxBK60q5NOzSFZy3Q-K-m6WtCP3UJoS79vtIheI_AaLJAnJ7Wz9JSnebUA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN4FawISiBn8Lilo62zvbobcERuscBWf_AjZ9cp0m2RnAiBF0zYhHxwZqQFo_dWB4PupqPPMsOssjlrir2FANOek6Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
