@@ -429,7 +429,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ABP MAZHA
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746514064/ei/MFwZaNugK6-LkucPrtzk8AM/ip/20.42.10.162/id/38xD7O9uh38.206/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbviTBqWjxJzrpX8W_J2ReiUktMC4JcwKuczFl3x2ptRy5RLc-noaGD-3Igp7Hq2SlebcZTQ2qU/spc/wk1kZjqk0A832CtNkpx3v3VMSftn3Yr3m3-hdFezU9h72LE4iRCUH0X1uhtROkQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgV7Dv3RuW210GXGvV8-GLlpd2ZrwlrRNSMcygHJUaCc0CIGFn4gA3diBaSL_Mnj5lyxD1Adx6LdDXWcIvPNo_7j1a/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Saam TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
