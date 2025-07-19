@@ -453,7 +453,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", CGTN News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752959503/ei/r7V7aO2ZFrKBkucPyaCn4Q8/ip/48.214.53.82/id/-YOJ99QXoJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLO42G3Dc9-BTKpg1mlYFTyaK1I2O9dZGGVM848HmK6sdFdny0TcPRN4bWx5YQGbXy0yTtpgkMUK/spc/l3OVKTgAJcgQkKAzG3r4mnwPS_NmjM7fK8RlVKe5jdUlv0ViVM0jMtN_IRLigZXwU8M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKaETHvbv2ZzkgvjwgQcZFVanmAuqrytJMBGNYSN7iY4AiEAoTs-3JhZD2JWE4ZKl-6EyrvF-ruL75VJXPsc1RIWZQg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", RT
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
